@@ -1,0 +1,16 @@
+jupyter
+ipython
+ipython-sql
+pandas
+numpy
+scikit-learn
+requests
+beautifulsoup4
+plotly
+plotly-express
+dash
+folium
+matplotlib
+seaborn
+sqlalchemy
+psycopg2-binary
