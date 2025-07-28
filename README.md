@@ -45,7 +45,7 @@ Este proyecto forma parte del **IBM Data Science Professional Certificate** y ti
 * Para lanzar el dashboard:
 
   ```bash
-  python spacex_dash_app.py
+  python SpaceX_dash_app.py
   ```
 
   Accede en `http://127.0.0.1:8050`.
